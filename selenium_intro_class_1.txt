@@ -1,0 +1,29 @@
+What is selenium 
+
+
+Selenium is an open-source software suite designed for automating web browsers. It provides a framework for testing web applications across different browsers and platforms. The primary use of Selenium is in automating the testing of web applications, but it can also be utilized for various other purposes, including web scraping, web performance monitoring, and automating repetitive tasks involving web interactions.
+
+Key components of Selenium:
+
+Selenium WebDriver: WebDriver is the core component of Selenium. It provides a programming interface for interacting with web browsers and automating user actions, such as clicking buttons, filling out forms, and navigating through web pages.
+
+Selenium IDE: Selenium Integrated Development Environment (IDE) is a Firefox browser plugin used for recording and playback of user interactions, making it easy to create automated test scripts without the need for coding.
+
+Selenium Grid: Selenium Grid allows you to distribute test execution across multiple machines, browsers, and platforms simultaneously. This helps in running tests in parallel and reducing the overall test execution time.
+
+selenium RC:- It's a Framework only
+
+Create a Project in PyCharm (Optional):
+If you don't already have a project in PyCharm, you can create one by selecting "File" > "New Project" and follow the instructions to set up a new Python project.
+
+Open Terminal:
+In PyCharm, open the terminal by clicking on "View" > "Tool Windows" > "Terminal."
+
+Install Selenium using pip:
+In the terminal, type the following command and press Enter to install Selenium using pip:
+
+pip install selenium 
+
+or 
+
+setting :- project interpeter :- + symbol :- search selenium + install
